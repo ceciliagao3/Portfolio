@@ -1,5 +1,7 @@
 
-body {background-color: black;
+.parallax {
+       height: 100%;
+       background-color: black;
        background-image: url("lightbulb.jpg");
        background-size: auto;
        background-attachement: fixed;
