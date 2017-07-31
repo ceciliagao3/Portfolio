@@ -1,5 +1,5 @@
 
-body{
+body{}
 .parallax {
        height = 100%;
        background-color: black;
@@ -24,4 +24,3 @@ body{
       ul {
        font-size: 150%;
       }
-}
